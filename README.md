@@ -2,6 +2,17 @@
 
 [![License: MIT with Attribution](https://img.shields.io/badge/License-MIT%20with%20Attribution-green.svg)](https://opensource.org/licenses/MIT-0) ![Programming Language](https://img.shields.io/badge/Language-Java-blue) ![Dependencies](https://img.shields.io/badge/Dependencies-JavaFX-red)
 
+## Table of Contents
+
+- [Introduction](#Introduction)
+- [Design Choices and Features](#Design Choices and Features)
+- [Validation Points](#Validation Points)
+- [Installation](#Installation)
+- [Game Controls](#Game Controls)
+- [Game Classes](#Game Classes)
+- [Conclusion](#Conclusion)
+- [License](#license)
+
 ## Introduction
 
 Sokoban is a classic puzzle game where the player must push boxes onto designated spots in order to complete the level. The player controls a character that can move up, down, left, and right and push boxes. The game is won when all boxes are on the designated spots.
@@ -58,3 +69,7 @@ The Sokoban game is implemented using several Java classes. These classes includ
 The Sokoban game is a challenging and enjoyable puzzle game that requires strategy and planning to solve. With its multiple levels, undo feature, and sound effects, it provides hours of entertainment for players of all ages. Thank you for considering this game for your entertainment needs.
 
 This README file was created with the help of ChatGPT, an AI language model trained by OpenAI. The content was based on the original report written by myself for a Software Engineering lab. Thank you ChatGPT for your contribution!
+
+## License
+
+This project is licensed under the terms of the MIT License with Attribution. See [LICENSE](LICENSE) for more information.
