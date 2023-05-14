@@ -1,5 +1,7 @@
 # Sokoban Game - Java Implementation
 
+[![License: MIT with Attribution](https://img.shields.io/badge/License-MIT%20with%20Attribution-green.svg)](https://opensource.org/licenses/MIT-0)![Programming Language](https://img.shields.io/badge/Language-Java-blue)![Dependencies](https://img.shields.io/badge/Dependencies-JavaFX-red)
+
 ## Introduction
 
 Sokoban is a classic puzzle game where the player must push boxes onto designated spots in order to complete the level. The player controls a character that can move up, down, left, and right and push boxes. The game is won when all boxes are on the designated spots.
