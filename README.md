@@ -1,8 +1,7 @@
 # Sokoban Game - Java Implementation
 
 [![License: MIT with Attribution](https://img.shields.io/badge/License-MIT%20with%20Attribution-green.svg)](https://opensource.org/licenses/MIT-0) ![Programming Language](https://img.shields.io/badge/Language-Java-blue) 
-![Java IO](https://img.shields.io/badge/Dependency-Java%20IO-green) ![Java AWT](https://img.shields.io/badge/Dependency-Java%20AWT-green) ![Java Util](https://img.shields.io/badge/Dependency-Java%20Util-green) ![JavaX ImageIO](https://img.shields.io/badge/Dependency-JavaX%20ImageIO-green) ![JavaX Swing](https://img.shields.io/badge/Dependency-JavaX%20Swing-green) ![Java NIO](https://img.shields.io/badge/Dependency-Java%20NIO-green) ![Java Util](https://img.shields.io/badge/Dependency-Java%20Util-green)
-
+[![java.io](https://img.shields.io/badge/Dependency-java.io-blue)](https://docs.oracle.com/en/java/javase/16/docs/api/java.base/java/io/package-summary.html) [![java.awt](https://img.shields.io/badge/Dependency-java.awt-green)](https://docs.oracle.com/en/java/javase/16/docs/api/java.desktop/java/awt/package-summary.html) [![java.util](https://img.shields.io/badge/Dependency-java.util-orange)](https://docs.oracle.com/en/java/javase/16/docs/api/java.base/java/util/package-summary.html) [![javax.imageio](https://img.shields.io/badge/Dependency-javax.imageio-purple)](https://docs.oracle.com/en/java/javase/16/docs/api/java.desktop/javax/imageio/package-summary.html) [![javax.swing](https://img.shields.io/badge/Dependency-javax.swing-yellow)](https://docs.oracle.com/en/java/javase/16/docs/api/java.desktop/javax/swing/package-summary.html) [![java.nio](https://img.shields.io/badge/Dependency-java.nio-red)](https://docs.oracle.com/en/java/javase/16/docs/api/java.base/java/nio/package-summary.html) [![java.util](https://img.shields.io/badge/Dependency-java.util-orange)](https://docs.oracle.com/en/java/javase/16/docs/api/java.base/java/util/package-summary.html)
 
 ## Table of Contents
 
