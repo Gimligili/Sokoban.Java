@@ -1,6 +1,6 @@
 # Sokoban Game - Java Implementation
 
-[![License: MIT with Attribution](https://img.shields.io/badge/License-MIT%20with%20Attribution-green.svg)](https://opensource.org/licenses/MIT-0)![Programming Language](https://img.shields.io/badge/Language-Java-blue)![Dependencies](https://img.shields.io/badge/Dependencies-JavaFX-red)
+[![License: MIT with Attribution](https://img.shields.io/badge/License-MIT%20with%20Attribution-green.svg)](https://opensource.org/licenses/MIT-0) ![Programming Language](https://img.shields.io/badge/Language-Java-blue) ![Dependencies](https://img.shields.io/badge/Dependencies-JavaFX-red)
 
 ## Introduction
 
