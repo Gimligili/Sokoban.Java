@@ -8,8 +8,8 @@
 - [Design Choices and Features](#Design)
 - [Validation Points](#Validation)
 - [Installation](#Installation)
-- [Game Controls](#Game_Controls)
-- [Game Classes](#Game_Classes)
+- [Game Controls](#Game-Controls)
+- [Game Classes](#Game-Classes)
 - [Conclusion](#Conclusion)
 - [License](#license)
 
