@@ -1,7 +1,7 @@
 # Sokoban Game - Java Implementation
 
-[![License: MIT with Attribution](https://img.shields.io/badge/License-MIT%20with%20Attribution-green.svg)](https://opensource.org/licenses/MIT-0) ![Programming Language](https://img.shields.io/badge/Language-Java-blue) ![Dependencies](https://img.shields.io/badge/Dependencies-JavaFX-red)
-- `java.io` <img alt="dependency" src="https://img.shields.io/badge/dependency-blue.svg">
+[![License: MIT with Attribution](https://img.shields.io/badge/License-MIT%20with%20Attribution-green.svg)](https://opensource.org/licenses/MIT-0) ![Programming Language](https://img.shields.io/badge/Language-Java-blue) 
+![Java IO](https://img.shields.io/badge/Dependency-Java%20IO-green) ![Java AWT](https://img.shields.io/badge/Dependency-Java%20AWT-green) ![Java Util](https://img.shields.io/badge/Dependency-Java%20Util-green) ![JavaX ImageIO](https://img.shields.io/badge/Dependency-JavaX%20ImageIO-green) ![JavaX Swing](https://img.shields.io/badge/Dependency-JavaX%20Swing-green) ![Java NIO](https://img.shields.io/badge/Dependency-Java%20NIO-green) ![Java Util](https://img.shields.io/badge/Dependency-Java%20Util-green)
 
 
 ## Table of Contents
