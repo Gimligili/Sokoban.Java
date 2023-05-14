@@ -5,11 +5,11 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Design Choices and Features](#Design Choices and Features)
-- [Validation Points](#Validation Points)
+- [Design Choices and Features](#Design)
+- [Validation Points](#Validation)
 - [Installation](#Installation)
-- [Game Controls](#Game Controls)
-- [Game Classes](#Game Classes)
+- [Game Controls](#GameControls)
+- [Game Classes](#GameClasses)
 - [Conclusion](#Conclusion)
 - [License](#license)
 
