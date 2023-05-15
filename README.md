@@ -55,8 +55,13 @@ During the testing phase, the following validation points were checked to ensure
 To play the Sokoban game, you need to have Java installed on your computer. Once you have Java installed, you can download the game files from the repository and compile them using a Java compiler.
 
 ## Build Instructions
-If you want to build yourself the .jar file from the release, you need to have Java Development Kit installed on your computer. I used version JDK 20. Then, you can either reuse the .class files that I included each time needed, or you can run the command `javac *.java ihm\*.java logic\*.java` from the ./src folder (referenced from the root folder of the project).
-Then you need to go to the root of the project and run : `jar cvfm <NAME OF JAR>.jar MANIFEST.MF src\*.class src\ihm\*.class src\logic\*.class img font levels`.
+If you want to build yourself the .jar file from the release, you need to have Java Development Kit installed on your computer. I used version JDK 20. Then, you can either reuse the .class files that I included each time needed, or you can run the command :
+`javac *.java ihm\*.java logic\*.java` 
+from the ./src folder (referenced from the root folder of the project). Then you need to go to the root of the project and run :
+`jar cvfm <MY FILE>.jar MANIFEST.MF src\*.class src\ihm\*.class src\logic\*.class img font levels`
+To execute your .jar file, you can navigate with the console to its location and run :
+`java -jar <MY FILE>.jar`
+or simply find the .jar file with the file exlorer, and run it. You only have to check that the file is run with the Java(TM) Platform SE binary, or else it will not run correctly.
 
 ## Game Controls
 
