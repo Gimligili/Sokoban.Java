@@ -3,9 +3,7 @@ package logic;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.modeliosoft.modelio.javadesigner.annotations.objid;
 
-@objid ("bfba2b33-2df2-4698-b3bc-4115bef5b76a")
 public class Gardien {
 	private int ligne;
 	private int colonne;

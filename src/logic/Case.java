@@ -1,15 +1,10 @@
 package logic;
-import com.modeliosoft.modelio.javadesigner.annotations.objid;
 
-@objid ("d20b6a1e-c4b8-428a-83db-6146d5e7312f")
+
+
 public class Case {
-    @objid ("adf4810a-928b-4e18-8b5d-b2ddc81fb0c1")
-    private boolean Target;
-    @objid ("f4583045-d3dd-4446-9779-67046a4f7e5f")
     private int ligne;
-    @objid ("a8be238e-12ce-4f2c-8ba6-c73b5351158a")
-    private int colonne;    
-    @objid ("e82dc778-2c1b-48ad-88b9-9958d98718ef")
+    private int colonne;
     private ContenuCase content;
     public Entrepot entrepot;
     
@@ -47,7 +42,6 @@ public class Case {
 
     
 
-    @objid ("aecf3306-9088-4b93-b650-01ad9d058ea7")
     public ContenuCase getContentVoisine(Direction direction) {
     	switch (direction) {
 			case HAUT:
@@ -62,7 +56,6 @@ public class Case {
 		return content;
     }
 
-    @objid ("1fc4c97c-730b-45a3-a303-9786b3ba25ee")
     public boolean acceptGardian(Direction direction) {
     	switch (this.content) {
     		case MUR: 

@@ -4,20 +4,14 @@ package logic;
 import java.io.IOException;
 import java.util.List;
 
-import com.modeliosoft.modelio.javadesigner.annotations.objid;
-
 import logic.Direction;
 
 
 @SuppressWarnings("unused")
-@objid ("026d9907-84c1-4c9c-8850-2911838b590b")
 public class Controleur {
-    @objid ("8298b685-a7e7-4654-9e00-24c7628f423c")
     private int niveau;
     private String path_to_level;
-    @objid ("c0ab4450-f4be-42c8-985f-401216e2fcb2")
     public Entrepot entrepot;
-    @objid ("675a2ff5-2cca-460f-a4d7-3c7077216561")
     public Gardien gardien;
     
     
@@ -39,8 +33,6 @@ public class Controleur {
     	this.entrepot = new Entrepot(path_to_level ,this.niveau, this);
     }
     
-    
-    @objid ("dd628d4a-62fd-470e-928b-230512649b45")
     public void action(Direction direction) {
     	List<Integer> position = gardien.getPosition();
     	int l = position.get(0);
@@ -77,12 +69,10 @@ public class Controleur {
     	};
     }
 
-    @objid ("8a77d5f2-125b-4aa3-8d40-db266d21bb8a")
     public boolean levelEnd() {
     	return entrepot.checkVictory();
     }
 
-    @objid ("ce43c50f-704a-4ba9-8ce6-f24c2463f075")
     public int getLevel() {
     	return niveau;
     }
